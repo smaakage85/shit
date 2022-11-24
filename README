@@ -1,0 +1,2 @@
+# shit commit
+alias shit='git commit -am "$USER styre!"; git push'
