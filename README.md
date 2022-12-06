@@ -16,7 +16,7 @@ How nice would it be, if I could actually somehow spare these key strokes...
 
 .. And **YES! you actually can**.
 
-## Introducting 'shit commit'
+## Introducing 'shit commit'
 
 Let me introduce to you: '**shit commit**'.
 
