@@ -8,7 +8,7 @@ I often commit stuff to git. I have spent a shitload of key strokes on typing:
 
 ```bash
 git add .
-git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOONE ELSE]"
+git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOONE ELSE THAN ME]"
 git push
 ```
 
