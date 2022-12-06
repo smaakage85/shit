@@ -1,10 +1,10 @@
-# :shit: SHIT COMMIT
+# :shit: Shit Commit
 
-A life-hack for lazy programmers.
+A git life-hack for lazy programmers.
 
-## Deep shit
+## Motivation
 
-I often commit stuff to git. I have spent a shitload key strokes on typing:
+I often commit stuff to git. I have spent a shitload of key strokes on typing:
 
 ```bash
 git add .
@@ -12,9 +12,13 @@ git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOON
 git push
 ```
 
-How nice would it be, if I could somehow spare these key strokes...
+How nice would it be, if I could actually somehow spare these key strokes...
 
-**WELL, YOU ACTUALLY CAN!**
+.. And **YES! you actually can**.
+
+## The solution
+
+Let me introduce to you: **SHIT COMMIT**.
 
 ```bash
 function shit() {
@@ -27,4 +31,8 @@ function shit() {
    git push
 }
 ```
+
+## FAQ
+
+
 
