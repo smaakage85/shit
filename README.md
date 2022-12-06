@@ -12,7 +12,9 @@ git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOON
 git push
 ```
 
-How nice would it be, if I could actually somehow spare these key strokes...
+Can you relate?
+
+How nice would it be, if you could actually somehow spare these key strokes and spend them on something less redundant, more productive...
 
 .. And **YES! you actually can**.
 
