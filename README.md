@@ -1,6 +1,6 @@
 # shit commit
 
-An innovative Git life-hack and productivity booster targeting lazy programmers.
+A convenient life-hack and productivity booster targeting lazy programmers.
 
 Works with OS: Linux/MacOS.
 
@@ -18,7 +18,7 @@ over and over and over again... 😴
 
 Do you relate?
 
-How nice would it be, if you could somehow spare these key strokes and spend them on something less redundant, more productive...
+How nice would it be, if you could somehow spare these shitty key strokes and spend them on something less redundant, more productive...
 
 .. And **YES**! It turns out, **you actually can**.
 
@@ -28,7 +28,7 @@ Let me introduce to your savior: '**shit commit**'.
 
 With 'shit commit' you will never have to type all of that shit again yourself. 'shit commit' will deal with it.
 
-'shit commit' is a bash function.
+'shit commit' is a convenient bash function. 
 
 ```bash
 function shit() {
