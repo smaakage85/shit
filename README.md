@@ -1,18 +1,16 @@
 # shit commit
 
-A git life-hack for lazy programmers.
+An innovative Git life-hack and productivity booster targeting lazy programmers.
 
-## Requirements
-
-Git. Operating systems: Linux/MacOS.
+Works with OS: Linux/MacOS.
 
 ## Motivation
 
-I often commit stuff to git, so I spend a shitload of key strokes on typing:
+I often commit stuff to git, so I spend a shitload of key strokes on typing (*):
 
 ```bash
 git add . 
-git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOONE ELSE THAN ME]"
+git commit -m "[ARBITRARY COMMIT MESSAGE]"
 git push
 ```
 
@@ -24,9 +22,13 @@ How nice would it be, if you could somehow spare these key strokes and spend the
 
 .. And **YES**! It turns out, **you actually can**.
 
-## Introducing 'shit commit'
+## 'shit commit' to the rescue
 
-Let me introduce to you: '**shit commit**'. 
+Let me introduce to your savior: '**shit commit**'. 
+
+With 'shit commit' you will never have to type all of that shit again yourself. 'shit commit' will deal with it.
+
+'shit commit' is a bash function.
 
 ```bash
 function shit() {
@@ -34,8 +36,11 @@ function shit() {
    if [ ! -z "$1" ]; then
      msg="$1"
    fi
+   # stage all changes
    git add .
+   # commit changes
    git commit -m "$msg"
+   # push to remote branch
    git push
 }
 ```
