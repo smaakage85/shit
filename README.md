@@ -1,5 +1,3 @@
-# Shit Commit
-
 <p align="center">
 <img src="logo.png" alt="Shit Commit" width="300"/>
 </p>
@@ -10,7 +8,13 @@ Without any further ado: **LET THE SHITSHOW BEGIN**!
 
 ## Motivation
 
-I often commit stuff to git. This implies me spending a shitload of keystrokes on (*): (1) staging all changes, (2) committing the changes and (3) pushing them to a remote branch: 
+I often commit stuff to Git. This implies me spending a shitload of keystrokes on (*): 
+
+1. Staging all changes
+2. Committing the changes
+3. Pushing them to a remote branch
+
+all the time. Like this:
 
 ```bash
 git add . 
@@ -20,15 +24,15 @@ git push
 
 over and over and over again... 😴
 
-### DO YOU RELATE?
+**.. DO YOU RELATE?**
 
 How nice would it be, if you could somehow spare these shitty keystrokes and spend them on something less redundant, more productive...
 
 .. And **YES**! It turns out, **you actually can**.
 
-## **`shit commit`** to the rescue
+## `shit commit` to the rescue
 
-Let me introduce you to your savior: **`shit commit`**. 
+Let me introduce you to your savior: `shit commit`. 
 
 With `shit commit` you will never have to type all of that shit again. Let `shit commit` deal with it.
 
@@ -84,4 +88,4 @@ shit "[COMMIT MESSAGE]"
 
 **Q**: Should you not write a telling commit message, every time you commit your changes?
 
-**A**: Nobody reads those messages anyway. Anyways, if you insist, you can provide your own custom message: `shit "[message]"`. 
+**A**: Nobody reads those messages anyway. But if you insist, you can provide your own custom message: `shit "[message]"`. 
