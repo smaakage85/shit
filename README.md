@@ -2,6 +2,10 @@
 
 A git life-hack for lazy programmers.
 
+## Requirements
+
+Git. Operating systems: Linux/MacOS.
+
 ## Motivation
 
 I often commit stuff to git, so I spend a shitload of key strokes on typing:
@@ -18,7 +22,7 @@ Do you relate?
 
 How nice would it be, if you could actually somehow spare these key strokes and spend them on something less redundant, more productive...
 
-.. And **YES! It turns out, you actually can**.
+.. And **YES**! It turns out, **you actually can**.
 
 ## Introducing 'shit commit'
 
@@ -31,7 +35,7 @@ function shit() {
      msg="$1"
    fi
    git add .
-   git commit -m "$msg!"
+   git commit -m "$msg"
    git push
 }
 ```
