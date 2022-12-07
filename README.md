@@ -2,7 +2,7 @@
 <img src="logo.png" alt="Shit Commit" width="300"/>
 </p>
 
-`shit commit` is a convenient Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
+`shit commit` is a next-level Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
 
 Without any further ado: **LET THE SHITSHOW BEGIN**! 
 
@@ -49,7 +49,7 @@ function shit() {
    git add .
    # commit changes
    git commit -m "$msg"
-   # push to remote branch
+   # push changes to remote branch
    git push
 }
 ```
@@ -72,7 +72,7 @@ Next time you want to do (*), simply run:
 shit
 ```
 
-For every dump you take, this will save you for **more than 31 keystrokes** .
+For every dump you take, this will save you for **more than 31 keystrokes**.
 
 If you want to go the extra mile and provide your `shit commit` with a custom commit message, you can do it by:
 
