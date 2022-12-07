@@ -26,7 +26,7 @@ How nice would it be, if you could somehow spare these key strokes and spend the
 
 ## Introducing 'shit commit'
 
-Let me introduce to you: '**shit commit :copyright: **'. 
+Let me introduce to you: '**shit commit**'. 
 
 ```bash
 function shit() {
