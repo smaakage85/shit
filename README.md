@@ -4,7 +4,7 @@ A git life-hack for lazy programmers.
 
 ## Motivation
 
-I often commit stuff to git. I have spent a shitload of key strokes on typing:
+I often commit stuff to git, so I spend a shitload of key strokes on typing:
 
 ```bash
 git add .
@@ -12,11 +12,13 @@ git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOON
 git push
 ```
 
-Can you relate?
+again and again and again and...
+
+Do you relate?
 
 How nice would it be, if you could actually somehow spare these key strokes and spend them on something less redundant, more productive...
 
-.. And **YES! you actually can**.
+.. And **YES! It turns out, you actually can**.
 
 ## Introducing 'shit commit'
 
