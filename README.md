@@ -32,7 +32,7 @@ How nice would it be, if you could somehow spare these shitty keystrokes and spe
 
 ## `shit commit` to the Rescue
 
-Now for the real. Let me introduce you to your savior: `shit commit`. 
+Now for the dope shit. Let me introduce you to your savior: `shit commit`. 
 
 With `shit commit` you will never have to type all of that shit again. Let `shit commit` deal with it.
 
@@ -56,14 +56,14 @@ function shit() {
 
 ## How to Start the Shit-storm
 
-Shit is getting real.
+Shit is getting real!
 
 Now append the above code snippet to your `.bashrc` file.
 
 Restart the terminal:
 
 ```bash
-$SHELL
+> $SHELL
 ```
 
 That's it. You are now all set to make your first `shit commit`.
@@ -71,7 +71,7 @@ That's it. You are now all set to make your first `shit commit`.
 Next time you want to do (*), simply run:
 
 ```bash
-shit
+> shit
 ```
 
 For every dump you take, this will save you for **more than 31 keystrokes**.
@@ -79,7 +79,7 @@ For every dump you take, this will save you for **more than 31 keystrokes**.
 If you want to go the extra mile and provide your `shit commit` with a custom commit message, you can do it by:
 
 ```bash
-shit "[COMMIT MESSAGE]"
+> shit "[COMMIT MESSAGE]"
 ```
 
 ## Frequently Asked Questions
