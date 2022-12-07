@@ -1,4 +1,8 @@
-# `shit commit`
+# Shit Commit
+
+<p align="center">
+<img src="logo.png" alt="Shit Commit" width="300"/>
+</p>
 
 `shit commit` is a convenient Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
 
@@ -16,7 +20,7 @@ git push
 
 over and over and over again... 😴
 
-Do you relate?
+### DO YOU RELATE?
 
 How nice would it be, if you could somehow spare these shitty keystrokes and spend them on something less redundant, more productive...
 
@@ -75,7 +79,9 @@ shit "[COMMIT MESSAGE]"
 ## Frequently Asked Questions
 
 **Q**: Should you not consider carefully what changes to commit in stead of just committing all changes? With this approach you risk pushing unintentional changes?
+
 **A**: Well.. Shit happens! And since you are tracking your project with Git, you can always roll any unintended changes back.
 
 **Q**: Should you not write a telling commit message, every time you commit your changes?
+
 **A**: Nobody reads those messages anyway. Anyways, if you insist, you can provide your own custom message: `shit "[message]"`. 
