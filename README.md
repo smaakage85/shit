@@ -2,7 +2,7 @@
 
 `shit commit` is a convenient Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
 
-Without any further ado: let the shitshow begin! 
+Without any further ado: **LET THE SHITSHOW BEGIN**! 
 
 ## Motivation
 
@@ -24,9 +24,9 @@ How nice would it be, if you could somehow spare these shitty keystrokes and spe
 
 ## **`shit commit`** to the rescue
 
-Let me introduce to your savior: **`shit commit`**. 
+Let me introduce you to your savior: **`shit commit`**. 
 
-With `shit commit` you will never have to type all of that shit again yourself. Let `shit commit` deal with it.
+With `shit commit` you will never have to type all of that shit again. Let `shit commit` deal with it.
 
 `shit commit` is a convenient bash function, that does (*) in one go: 
 
@@ -48,7 +48,7 @@ function shit() {
 
 ## How to Start the Shit-storm
 
-Append the above function to your `.bashrc` file.
+Append the above code snippet to your `.bashrc` file.
 
 Restart the terminal:
 
@@ -64,9 +64,18 @@ Next time you want to do (*), simply run:
 shit
 ```
 
-in stead. For every dump you take, this will save you for **more than 31 keystrokes** .
+For every dump you take, this will save you for **more than 31 keystrokes** .
+
+If you want to go the extra mile and provide your `shit commit` with a custom commit message, you can do it by:
+
+```bash
+shit "[COMMIT MESSAGE]"
+```
 
 ## Frequently Asked Questions
 
+**Q**: Should you not consider carefully what changes to commit in stead of just committing all changes? With this approach you risk pushing unintentional changes?
+**A**: Well.. Shit happens! And since you are tracking your project with Git, you can always roll any unintended changes back.
 
-
+**Q**: Should you not write a telling commit message, every time you commit your changes?
+**A**: Nobody reads those messages anyway. Anyways, if you insist, you can provide your own custom message: `shit "[message]"`. 
