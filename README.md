@@ -91,3 +91,6 @@ shit "[COMMIT MESSAGE]"
 **Q**: Should you not write a telling commit message, every time you commit your changes?
 
 **A**: Nobody reads those messages anyway. But if you insist, you can provide your own custom message: `shit "[message]"`. 
+
+## 'Shit' Count
+22
