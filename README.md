@@ -16,17 +16,17 @@ git commit -m "[SOME ARBITRARY COMMIT MESSAGE UNDERSTANDABLE FOR ABSOLUTELY NOON
 git push
 ```
 
-again and again and again and...
+over and over and over again. 😴
 
-Do you relate?
+Do you relate :question:
 
-How nice would it be, if you could actually somehow spare these key strokes and spend them on something less redundant, more productive...
+How nice would it be, if you could somehow spare these key strokes and spend them on something less redundant, more productive...
 
 .. And **YES**! It turns out, **you actually can**.
 
 ## Introducing 'shit commit'
 
-Let me introduce to you: '**shit commit**'.
+Let me introduce to you: '**shit commit :copyright: **'. 
 
 ```bash
 function shit() {
