@@ -30,9 +30,9 @@ How nice would it be, if you could somehow spare these shitty keystrokes and spe
 
 .. And **YES**! It turns out, **you actually can**.
 
-## `shit commit` to the rescue
+## `shit commit` to the Rescue
 
-Let me introduce you to your savior: `shit commit`. 
+Now for the real. Let me introduce you to your savior: `shit commit`. 
 
 With `shit commit` you will never have to type all of that shit again. Let `shit commit` deal with it.
 
@@ -56,7 +56,9 @@ function shit() {
 
 ## How to Start the Shit-storm
 
-Append the above code snippet to your `.bashrc` file.
+Shit is getting real.
+
+Now append the above code snippet to your `.bashrc` file.
 
 Restart the terminal:
 
