@@ -46,7 +46,7 @@ function shit() {
 }
 ```
 
-## How to start the shit-storm
+## How to Start the Shit-storm
 
 Append the above function to your `.bashrc` file.
 
@@ -64,9 +64,9 @@ Next time you want to do (*), simply run:
 shit
 ```
 
-in stead. For every dump you take, this will save you for more than **31 keystrokes** .
+in stead. For every dump you take, this will save you for **more than 31 keystrokes** .
 
-## FAQ
+## Frequently Asked Questions
 
 
 
