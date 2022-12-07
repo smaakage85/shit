@@ -18,7 +18,7 @@ git push
 
 over and over and over again. 😴
 
-Do you relate :question:
+Do you relate:question:
 
 How nice would it be, if you could somehow spare these key strokes and spend them on something less redundant, more productive...
 
