@@ -4,6 +4,8 @@
 
 `shit commit` is a next-level Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
 
+I promise you, Git will never be the same again.
+
 Without any further ado: **LET THE SHITSHOW BEGIN**! 
 
 ## Motivation
@@ -14,12 +16,12 @@ I often commit stuff to Git. This implies me spending a shitload of keystrokes o
 2. Committing the changes
 3. Pushing them to a remote branch
 
-all the time. Like this:
+all the time. The same **36+** keystrokes:
 
 ```bash
-git add . 
-git commit -m "[ARBITRARY COMMIT MESSAGE]"
-git push
+> git add . 
+> git commit -m "[ARBITRARY COMMIT MESSAGE]"
+> git push
 ```
 
 over and over and over again... 😴
@@ -32,11 +34,11 @@ How nice would it be, if you could somehow spare these shitty keystrokes and spe
 
 ## `shit commit` to the Rescue
 
-Now for the dope shit. Let me introduce you to your savior: `shit commit`. 
+Let me introduce you to your savior: `shit commit`. 
 
-With `shit commit` you will never have to type all of that shit again. Let `shit commit` deal with it.
+With `shit commit` you will never have to type any of that shit again. Let `shit commit` deal with it.
 
-`shit commit` is a convenient bash function, that does (*) in one go: 
+`shit commit` consists of a convenient bash function, that does (*) in one go: 
 
 ```bash
 # shit commit
@@ -54,11 +56,11 @@ function shit() {
 }
 ```
 
-## How to Start the Shit-storm
+## Start the Shit-storm
 
-Shit is getting real!
+Shit is about to get real!
 
-Now append the above code snippet to your `.bashrc` file.
+Append the above code snippet to your `.bashrc` file.
 
 Restart the terminal:
 
@@ -74,7 +76,7 @@ Next time you want to do (*), simply run:
 > shit
 ```
 
-For every dump you take, this will save you for **more than 31 keystrokes**.
+As you see, it only takes **5** keystrokes. FIVE! Consequently, for every dump you take, `shit commit` will save you for **more than 31 keystrokes**.
 
 If you want to go the extra mile and provide your `shit commit` with a custom commit message, you can do it by:
 
@@ -94,3 +96,15 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
 
 ## 'Shit' Count
 22
+
+## Cite this work
+
+```
+@inproceedings{shitcommit,
+  title = {Shit Commit},
+  author = {Kjeldgaard, Lars},
+  year = {2022},
+  publisher = {{GitHub}},
+  url = {https://github.com/smaakage85/shit}
+}
+```
