@@ -58,7 +58,7 @@ function shit() {
 
 ## Start the Shit-storm
 
-![Walktrough](shit.git)
+![Walktrough](shit.gif)
 Shit is about to get real!
 
 Append the above code snippet to your `.bashrc` file.
