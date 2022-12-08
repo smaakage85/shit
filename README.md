@@ -28,7 +28,7 @@ over and over and over again... 😴
 
 **.. DO YOU RELATE?**
 
-How nice would it be, if you could somehow spare these shitty keystrokes and spend them on something less redundant, more productive...
+Imagine how nice it would be if you could somehow spare these shitty keystrokes and spend them on something less redundant, more productive...
 
 .. And **YES**! It turns out, **you actually can**.
 
@@ -84,7 +84,9 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
 > shit "[COMMIT MESSAGE]"
 ```
 
-![Walktrough](shit.gif)
+<p align="center">
+<img src="shit.gif" alt="Walkthrough"/>
+</p>
 
 ## Frequently Asked Questions
 
@@ -106,7 +108,7 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
   title = {Shit Commit},
   author = {Kjeldgaard, Lars},
   year = {2022},
-  publisher = {{GitHub}},
+  publisher = {GitHub},
   url = {https://github.com/smaakage85/shit}
 }
 ```
