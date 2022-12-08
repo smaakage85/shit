@@ -58,6 +58,7 @@ function shit() {
 
 ## Start the Shit-storm
 
+![Walktrough](shit.git)
 Shit is about to get real!
 
 Append the above code snippet to your `.bashrc` file.
@@ -86,7 +87,7 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
 
 ## Frequently Asked Questions
 
-**Q**: Should you not consider carefully what changes to commit in stead of just committing all changes? With this approach you risk pushing unintentional changes?
+**Q**: Should you not consider carefully what changes to commit instead of just committing all changes? With this approach you risk pushing unintended changes?
 
 **A**: Well.. Shit happens! And since you are tracking your project with Git, you can always roll any unintended changes back.
 
