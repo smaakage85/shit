@@ -58,7 +58,6 @@ function shit() {
 
 ## Start the Shit-storm
 
-![Walktrough](shit.gif)
 Shit is about to get real!
 
 Append the above code snippet to your `.bashrc` file.
@@ -84,6 +83,8 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
 ```bash
 > shit "[COMMIT MESSAGE]"
 ```
+
+![Walktrough](shit.gif)
 
 ## Frequently Asked Questions
 
