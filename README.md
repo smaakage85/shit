@@ -2,7 +2,7 @@
 <img src="logo.png" alt="Shit Commit" width="300"/>
 </p>
 
-`shit commit` is a next-level Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
+`shit commit` is a next-level "worst practice" Git life-hack and productivity booster targeting lazy programmers. It works with both Linux and MacOS operating systems.
 
 I promise you, Git will never be the same again.
 
