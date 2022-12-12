@@ -100,15 +100,3 @@ If you want to go the extra mile and provide your `shit commit` with a custom co
 
 ## 'Shit' Count
 22
-
-## Cite this work
-
-```
-@inproceedings{shitcommit,
-  title = {Shit Commit},
-  author = {Kjeldgaard, Lars},
-  year = {2022},
-  publisher = {GitHub},
-  url = {https://github.com/smaakage85/shit}
-}
-```
